@@ -27,12 +27,12 @@ button {
   h2 {
     font-family: 'Muna';
   line-height: 1.5;
-  color: rgb(170, 39, 65);
+  color: black;
 
 }
 
 body {
-  background-image:linear-gradient(#ce8181,rgb(189, 189, 60) ) ;
+  background:linear-gradient(mediumaquamarine,rgb(89, 89, 192)) ;
 }
 
 a {
@@ -57,7 +57,7 @@ p {
   padding: 10px 30px 10px;
   text-decoration: none;
   color: #fff;
-  background: #016aba;
+  background: #08385c;
   border-radius: 5px;
   border: none;
   font-size: 20px;
@@ -201,16 +201,14 @@ p {
 
 .jumbo {
   padding: 50px;
-  background: #f6f6f6;
+
 }
 
-.jumbo:hover {
-  background-color: #f3f3f3;
-}
+
 
 .jumbo h2 {
-  font-size: 3.2em;
-  margin-top: -25px;
+  font-size: 3.8em;
+  margin-top: -16px;
 }
 
 .jumbo p,
@@ -458,8 +456,8 @@ p {
   background: url(../assets/images/teaching.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 300px;
-  width: 300px;
+  height: 1000px;
+  width: 650px;
 
   position: relative;
   top: -14px;

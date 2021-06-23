@@ -28,10 +28,11 @@ button {
     font-family: 'Muna';
   line-height: 1.5;
   color: rgb(170, 39, 65);
+
 }
 
 body {
-  background: #ce8181;
+  background-image:linear-gradient(#ce8181,rgb(189, 189, 60) ) ;
 }
 
 a {

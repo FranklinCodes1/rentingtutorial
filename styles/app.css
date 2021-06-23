@@ -5,8 +5,8 @@
  */
 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 20;
+  padding: 20;
 }
 
 body,
@@ -452,16 +452,17 @@ p {
   position: relative;
 }
 
-.header {
+.tomster {
     opacity: 65%;
-  background: url(../assets/images/teaching.png);
+  background: url(../assets/images/teaching.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   height: 300px;
   width: 300px;
 
   position: relative;
-  top: -10px;
+  top: -14px;
+  margin: 10px;
 }
 
 .screen-reader{
